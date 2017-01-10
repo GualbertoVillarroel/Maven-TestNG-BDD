@@ -2,7 +2,7 @@
 <suite name="Cucumber">
     <test name="BDDCucumber">
         <classes>
-            <class name="bdd.feature.bddFeatureRunner"></class>
+            <class name="bdd.feature.BddFeatureRunner"></class>
         </classes>
     </test>
 </suite>

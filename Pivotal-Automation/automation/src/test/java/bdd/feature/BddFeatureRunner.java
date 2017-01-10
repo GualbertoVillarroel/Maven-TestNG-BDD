@@ -7,6 +7,6 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
         features = "src\\resource\\login.feature",
         format = {"pretty", "html:reports/cucumber"})
 
-public class bddFeatureRunner extends AbstractTestNGCucumberTests {
+public class BddFeatureRunner extends AbstractTestNGCucumberTests {
 
 }
